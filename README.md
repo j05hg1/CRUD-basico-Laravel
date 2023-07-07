@@ -2,7 +2,7 @@
 ![Imagen del proyecto](https://github.com/j05hg1/CRUD-basico-Laravel/blob/main/storage/img/logo.png?raw=true)
 
 ## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](https://github.com/j05hg1/CRUD-basico-Laravel)
+- [URL de github pages de este proyecto](https://j05hg1.github.io/CRUD-basico-Laravel/)
 
 ## Descripción 📑
 
@@ -24,7 +24,7 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://github.com/j05hg1/CRUD-basico-Laravel/blob/main/storage/img/detalles.png?raw=true)
 
 ## Autor ✒️
-**Joseph Giraldo**
+**Joseph Giraldo - j05hg1**
 
 * [LinkedIn](https://www.linkedin.com/in/joseph-jean-pierre-giraldo-scarpetta-a40636255)
 
