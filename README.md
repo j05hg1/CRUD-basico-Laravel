@@ -1,6 +1,6 @@
 # CRUD básico Laravel 10 y Bootstrap 5
-![Imagen del proyecto](https://github.com/j05hg1/CRUD-basico-Laravel/tree/main/storage/img/logo.png?raw=true)
-
+![Imagen del proyecto](https://github.com/j05hg1/CRUD-basico-Laravel/blob/main/storage/img/logo.png?raw=true)
+storage/img
 ## Ejemplo en vivo
 - [URL-de-github-pages-de-este-proyecto](https://github.com/j05hg1/CRUD-basico-Laravel)
 
