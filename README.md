@@ -25,7 +25,6 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 **Joseph Giraldo**
 
-* [Mi correo](jgiraldo394@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/joseph-jean-pierre-giraldo-scarpetta-a40636255)
 
 ## Instalación 
